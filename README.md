@@ -56,10 +56,12 @@ Developed a web-based Fake News Detection system using Natural Language Processi
 
 **Bachelor of Science (Hons) in Computer Science**  
 NSBM Green University  
-Expected Graduation: 2027
+Expected Graduation: 2026
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/mihan-nethmika-59546b303)
-- 📧 Email: your-mihan30nethmika@gmail.com
-- 💻 GitHub: [Your GitHub](www.github.com/MIHAN2003)
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/mihan-nethmika-59546b303)
+- 📧 Email: mihan30nethmika@gmail.com
+- 💻 GitHub: [GitHub](www.github.com/MIHAN2003)
+
+ 
