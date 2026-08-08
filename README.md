@@ -8,7 +8,7 @@ Currently pursuing a BSc (Hons) in Computer Science, I have experience in web, m
 - 🎓 Computer Science Student
 - 💻 Full-stack developer with experience in web and mobile applications
 - 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🎮 Game development enthusiast
+
 
 ## 🛠️ Technologies & Tools
 
