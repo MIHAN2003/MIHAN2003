@@ -35,10 +35,7 @@ Currently pursuing a BSc (Hons) in Computer Science, I have experience in web, m
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-412991?style=flat)
 
-### Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
 ### Tools & Platforms
 
@@ -63,6 +60,6 @@ Expected Graduation: 2027
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: your-email@example.com
-- 💻 GitHub: [Your GitHub](YOUR_GITHUB_URL)
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/mihan-nethmika-59546b303)
+- 📧 Email: your-mihan30nethmika@gmail.com
+- 💻 GitHub: [Your GitHub](www.github.com/MIHAN2003)
