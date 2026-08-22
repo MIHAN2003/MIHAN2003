@@ -60,7 +60,7 @@ Expected Graduation: 2026
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/mihan-nethmika-59546b303)
+- 💼 LinkedIn: [LinkedIn](http://linkedin.com/in/mihan-nethmika-bb0599428)
 - 📧 Email: mihan30nethmika@gmail.com
 - 💻 GitHub: [GitHub](www.github.com/MIHAN2003)
 
